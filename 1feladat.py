@@ -5,6 +5,7 @@ abc = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O"
 
 lehetoseg = int(input("Kérlek válassz az alábbi lehetőségekből: \n 1-számgenerátor \n 2-szöveg generátor \n 3-számgenerátor ellenőrzése \n 4-szöveg generátor ellenőrzése \n választásod: "))
 
+
 match lehetoseg:
 
     case 1:
