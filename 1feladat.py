@@ -33,3 +33,6 @@ match lehetoseg:
         for s in random_strings:
             f.write(f"{s};")
             print(f"{s};")
+
+#asp
+print()
